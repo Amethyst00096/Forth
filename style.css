@@ -1,0 +1,16 @@
+body {
+    font-family: sans-serif;
+}
+
+h1 {
+    text-align: center;
+    color: blue;
+}
+
+iframe {
+    border: 3px solid blue;
+}
+
+img {
+    border: 3px solid blue;
+}
